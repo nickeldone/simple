@@ -1,0 +1,4 @@
+[submodule "lib/generate-bb-rules"]
+	path = lib/generate-bb-rules
+	url = https://github.com/c0rv4x/generate-bb-rules.git
+	branch = master

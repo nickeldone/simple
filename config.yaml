@@ -1,0 +1,6 @@
+source_url: "https://hackerone.com/programs"
+output_format: "yaml"
+rules_dir: "./output"
+generator:
+  max_depth: 3
+  include_subdomains: true
