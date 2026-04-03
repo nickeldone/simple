@@ -1,1 +1,2 @@
 flask>=3.0.0
+git+https://github.com/c0rv4x/flask-currency-utils.git@main#egg=flask-currency-utils
